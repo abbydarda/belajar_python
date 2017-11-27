@@ -1,0 +1,5 @@
+print "hello world"
+print "saya sedang belajar python"
+print "menggunakan sistem operasi linux"
+print "menggunakan teks editor atom"
+print "selamat belajar python"
