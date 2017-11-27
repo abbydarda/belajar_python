@@ -28,4 +28,4 @@ print ({'nama':'Abby','umur':22})
 # # tipe data dictionary dimasukan kedalam variable biodata
 biodata = {'nama':'Abby', 'umur':22} #proses inisialisasi variable biodata
 print (biodata) #proses pencetakan variabel biodata yang berisi tipe data Dictionary
-type (biodata) #fungsi untuk mengecek jenis tipe data. akan tampil <class 'dict'> yang berarti dict adalah tipe data dictionary
+print type(biodata) #fungsi untuk mengecek jenis tipe data. akan tampil <class 'dict'> yang berarti dict adalah tipe data dictionary
